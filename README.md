@@ -68,7 +68,7 @@ To get the system up and running on your local machine, please follow the instru
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/login-record-management-system.git
+    git clone https://github.com/reetnayan/user-rdbms.git
     cd login-record-management-system
     ```
 
@@ -108,7 +108,3 @@ The system defines three distinct user roles, each with a specific set of permis
       - Can view the `FailedLoginAttempts` table.
   - **Standard:**
       - Can view their own login records.
-
-## License
-
-This project is licensed under the GNU General Public License v3.0. For more details, please see the [LICENSE](https://www.google.com/search?q=LICENSE) file.
